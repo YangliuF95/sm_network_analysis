@@ -19,4 +19,4 @@ MAG dataset can be downloaded via an Azure blob storage account. The detailed in
 Both metadata downloaded are text files, we use Pandas to convert txt to CSV and conduct pair-wise matching between the two datasets.  
 
 ## Network and node attributes
-The networks and related node attributes (including disciplinary background and year) are provided here as edgelists and CSV files.
+The networks and related node attributes (including disciplinary background, community detected and year) are provided here as edgelists and CSV files.
