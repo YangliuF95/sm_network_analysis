@@ -25,6 +25,11 @@ More information about our method can be found in the following article:
 
 If you use any of the provided material for your work, please cite us as follows:
 
+## License
+![image](https://user-images.githubusercontent.com/60612969/135886472-567c603e-8001-43e3-a808-f020ba14814d.png)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
+
 ## Contact information
 If you have any questions or suggestions, do not hesitate to [contact us](mailto:yangliufan@sodas.ku.dk) 😊
 
