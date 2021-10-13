@@ -16,7 +16,7 @@ This repository contains cluster analyses in three types of citation-based netwo
 | External co-citation                  |![image](https://user-images.githubusercontent.com/60612969/134672569-499084f4-9b94-452e-9a4e-832c834304f1.png) |
 | Bibliographic coupling                |![image](https://user-images.githubusercontent.com/60612969/134672648-a539e55f-b775-432c-9d99-93142adbaac2.png) |
 
-***<sub>The gray box represents the documents within a dataset. Documents J–M and N-R are documents outside the set, but are referenced by documents within the set, and cite documents within the set. Solid arrows represent citations within the set. Dashed arrows represent citations from or to documents outside the set. Ovals in each panel show how the documents might be clustered based on each approach (inspired from Boyack & Klavans, 2010)***
+***<sub>The gray box represents the documents within a dataset. Documents J–M and N-R are documents outside the set, but are referenced by documents within the set, and cite documents within the set. Solid arrows represent citations within the set. Dashed arrows represent citations from or to documents outside the set. Ovals in each panel show how the documents might be clustered based on each approach (inspired by Boyack & Klavans, 2010)***
 
 
 ## Reference
