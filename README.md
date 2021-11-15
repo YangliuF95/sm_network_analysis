@@ -1,7 +1,7 @@
 # smd_network
 
 ## Repository structure
-The is the repository for the article "The (r)evolution of social media data-based research: extracting the evolving specialty structures from bibliometric data" and contains the following elements:
+The is the repository for the article "Extracting the evolving interdisciplinary specialty structures in social media data-based research" and contains the following elements:
 
 - data: The search string for retrieving the dataset from WoS and MAG, and
 - code: the code to generate the results presented in the article.
