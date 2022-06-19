@@ -1,7 +1,7 @@
 # smd_network
 
 ## Repository structure
-The is the repository for the article "Extracting the evolving interdisciplinary specialty structures in social media data-based research" and contains the following elements:
+The is the repository for the article "Extracting the interdisciplinary specialty structures in social media data-based research: A clustering-based network approach" and contains the following elements:
 
 - data: The search string for retrieving the dataset from WoS and MAG, and
 - code: the code to generate the results presented in the article.
@@ -23,7 +23,20 @@ This repository contains cluster analyses in three types of citation-based netwo
 
 More information about our method can be found in the following article:
 
+  Fan, Y., Lehmann, S., & Blok, A. (2022). Extracting the interdisciplinary specialty structures in social media data-based research: A clustering-based network approach. Journal of Informetrics, 16(3), 101310. https://doi.org/10.1016/J.JOI.2022.101310
+  
 If you use any of the provided material for your work, please cite us as follows:
+```
+@article{fan_cluster_2022,
+  author={Y. Fan, S. Lehmann and A. Blok},
+  doi={10.1016/j.joi.2022.101310}
+  journal={Journal of Informetrics},
+  title={Extracting the interdisciplinary specialty structures in social media data-based research: A clustering-based network approach},
+  volume={16},
+  issue={3},
+  year={2022}
+}
+```
 
 ## License
 ![image](https://user-images.githubusercontent.com/60612969/135886472-567c603e-8001-43e3-a808-f020ba14814d.png)
