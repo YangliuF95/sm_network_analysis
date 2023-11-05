@@ -1,7 +1,7 @@
 # smd_network
 
 ## Repository structure
-The is the repository for the article "Extracting the interdisciplinary specialty structures in social media data-based research: A clustering-based network approach" and contains the following elements:
+This is the repository for the article "Extracting the interdisciplinary specialty structures in social media data-based research: A clustering-based network approach" and contains the following elements:
 
 - data: The search string for retrieving the dataset from WoS and MAG, and
 - code: the code to generate the results presented in the article.
